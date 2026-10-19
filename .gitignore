@@ -1,0 +1,45 @@
+# ==========================================
+# Secretos y Variables de Entorno (CRÍTICO)
+# ==========================================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+secrets/
+credentials.json
+
+# ==========================================
+# Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ==========================================
+# Node / Frontend (si aplica)
+# ==========================================
+node_modules/
+.next/
+dist/
+build/
+*.log
+
+# ==========================================
+# IDEs y Sistema Operativo
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
