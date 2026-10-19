@@ -105,6 +105,15 @@ Aplicación práctica de buenas prácticas de **prevención de fuga de credencia
 
 ---
 
+## Fuentes y licencias
+
+- **Datos**: [CISA Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog), distribuido bajo licencia [Creative Commons 0 1.0](https://github.com/cisagov/kev-data/blob/main/LICENSE).
+- Este proyecto es **independiente** y **no está afiliado, patrocinado ni respaldado** por CISA, el DHS ni el Gobierno de los Estados Unidos.
+- **Análisis**: generado con la API de Google Gemini.
+- **Código**: publicado bajo licencia [MIT](LICENSE).
+
+---
+
 ## Aviso
 
 Los informes son generados por IA a partir de datos públicos y tienen fines educativos y de apoyo a la decisión. Deben ser revisados por un analista antes de usarse en un entorno real.
